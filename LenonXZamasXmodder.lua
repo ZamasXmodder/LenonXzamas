@@ -366,7 +366,7 @@ submitButton.MouseButton1Click:Connect(function()
 end)
 
 getKeyButton.MouseButton1Click:Connect(function()
-	setclipboard("https://zamasxmodder.github.io/HalloweenScriptStealAbrainrotTrial/")
+	setclipboard("https://zamasxmodder.github.io/HalloweenStealAbrainrot/")
 	showToast()
 end)
 
